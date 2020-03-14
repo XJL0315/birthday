@@ -13,7 +13,8 @@ var config = {
         "不光是生日要快乐",
         "每天都要快乐",
         "最后",
-        "HAPPY Birthday!",
+        "HAPPY Birthday 2 U!",
+        "这个是专辑里的日历嘻嘻",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,7 +26,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        //"心爱的小可爱": "./imgs/xiaokeai.png",
+        "这个是专辑里的日历嘻嘻": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
